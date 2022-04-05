@@ -43,7 +43,6 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
-
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 
 
