@@ -25,10 +25,12 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
+
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
@@ -42,9 +44,13 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
+
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
+[![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/JeanPaulll/)](https://github.com/JeanPaulll/)
