@@ -4,6 +4,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561984195908&text=Olá!)](https://api.whatsapp.com/send?phone=5561984195908&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanpaulwebb@gmail.com)](mailto:jeanpaulwebb@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jeanpaulrodrigues@hotmail.com)](mailto:jeanpaulrodrigues@hotmail.com)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://jeanpaull.medium.com/)
+
 
     Olá meu nome é Jean Paul, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
     Hello my name is Jean Paul, Fullstack JavaScript Developer and aspiring DevOps.
